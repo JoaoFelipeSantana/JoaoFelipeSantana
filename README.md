@@ -1,7 +1,7 @@
 # Hello! I'm João Felipe!
 
  - 📘Student of Systems Analysis and Development
- - 🤷‍♂️Learning Java
+ - 🤷‍♂️Learning Web Development
  - 🕵️‍A noble soul makes even the smallest of men great
 
 ##
